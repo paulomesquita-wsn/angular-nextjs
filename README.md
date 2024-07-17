@@ -1,0 +1,1 @@
+Quick POC to check ways to seemsly integrate Angular and Next.js frontends with the same domain
