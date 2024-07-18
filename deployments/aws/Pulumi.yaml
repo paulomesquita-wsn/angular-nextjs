@@ -1,0 +1,10 @@
+name: proxy
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+description: a proxy to angular and react on vercel
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-typescript
